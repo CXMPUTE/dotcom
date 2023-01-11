@@ -37,6 +37,21 @@ const products = [
     ],
   },
   {
+    name: "lil64",
+    cost: 48,
+    specs: {
+      location: { continent: "Europe", city: "Lille, France" },
+      cpu: { model: "Intel® Xeon E5-1630 v3", speed: "4x3.7GHz" },
+      memory: { type: "64GB DDR4 RAM", speed: "2666MHz ECC" },
+      storage: { type: "2x 240GB SATA SSD", total: "480GB total" },
+    },
+    features: [
+      "DDoS Protection",
+      "99.9% Uptime SLA",
+      "100mbit unmetered, parallel network",
+    ],
+  },
+  {
     name: "dus64",
     cost: 48,
     specs: {
