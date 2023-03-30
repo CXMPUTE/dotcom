@@ -1,14 +1,12 @@
-# Hook Landing Page Theme
+<h1 align="center">CXMPUTE &bull; Homepage</h1>
+<p align="center">The homepage for Cxmpute and other related services.</p>
 
-This landing page theme is built on [shorthand css framework](https://github.com/shorthandcss/shorthand)
+<hr />
 
-![preview](/preview.jpg)
+<h2 align="center">Reporting Bugs & Issues</h2>
 
-## Credit
+To report issues with the site, please create a new [GitHub Issue](https://github.com/CXMPUTE/dotcom/issues/new).
 
-* Picture [unsplash](https://unsplash.com)
-* Icons [feathericons](https://feathericons.com)
+<h2 align="center">License</h2>
 
-## LICENSE
-
-The theme is available under the MIT License.
+This code is maintained under the [MIT license](https://github.com/cxmpute/dotcom/blob/main/LICENSE).
